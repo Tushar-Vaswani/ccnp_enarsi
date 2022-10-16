@@ -12,3 +12,6 @@ And yes, add me some suggestions or email me at tushar.1801@gmail.com
 There are some topics extra to just clear the basics (like NAT, ACL, DHCP and DNS) - The actual struggle starts from EIGRP..
 
 I hope this will be of some help! Thanks for reading this!
+
+A Big Shoutout to my Mentor- Atul Sharma (You'll really love his content) - Network Kings- https://nwkings.com
+
